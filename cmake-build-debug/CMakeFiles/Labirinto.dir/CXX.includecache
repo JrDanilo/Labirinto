@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projetos/C++/PEDA/Labirinto/Labirinto.h
+
+D:/Projetos/C++/PEDA/Labirinto/main.cpp
+iostream
+-
+Labirinto.h
+D:/Projetos/C++/PEDA/Labirinto/Labirinto.h
+
